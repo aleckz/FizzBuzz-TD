@@ -1,4 +1,4 @@
-require 'fizzbuzz'
+require 'hashbuzz'
 
 describe 'fizzbuzz' do
 	it "number is divisible by 3 - return fizz" do
